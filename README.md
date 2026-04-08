@@ -52,7 +52,7 @@ Users can select a date, add notes, manage tasks, and select date ranges.
   ###  Clone the repository
 
   ```bash
-  git clone https://github.com/your-username/calendar-task-app.git](https://github.com/rishavsanjan/tuft-test
+  git clone https://github.com/rishavsanjan/tuft-test
   cd tuft-test
   npm install
   npm run dev
